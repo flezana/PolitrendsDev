@@ -1,0 +1,31 @@
+{
+  "beautifier": {
+    "keep_array_indentation": true,
+    "break_chained_methods": false,
+    "space_before_conditional": true,
+    "unescape_strings": false,
+    "tab_size": "1",
+    "max_preserve_newlines": "2",
+    "wrap_line_length": "140",
+    "brace_style": "collapse"
+  },
+  "generation": [
+    {
+      "templateId": "ui5template.basicSAPUI5ApplicationComponent",
+      "templateVersion": "1.4.0",
+      "dateTimeStamp": "Fri, 19 May 2017 10:24:58 GMT"
+    },
+    {
+      "templateId": "servicecatalog.connectivityComponent",
+      "templateVersion": "0.0.0",
+      "dateTimeStamp": "Mon, 22 May 2017 15:43:49 GMT"
+    }
+  ],
+  "mockpreview": {
+    "mockUri": "/POD/politrends/Politicians.xsodata",
+    "metadataFilePath": "",
+    "loadJSONFiles": false,
+    "loadCustomRequests": false,
+    "mockRequestsFilePath": ""
+  }
+}
